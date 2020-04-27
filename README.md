@@ -13,3 +13,7 @@ Refer --help option for more details
 *   Support for login to websites that require sign in
 *   More filtering support
 
+<aside class="warning">
+When you use this tool for the first time, it downloads chromium to PYPPETEER_HOME. Make sure there is right access to this folder.
+In windows, it is typically under C:\Users\<username>\AppData\Local. Refer Puppeteer documentation for more info.
+</aside>
